@@ -57,3 +57,13 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+
+
+## USE THIS LINK TO ACCESS FREE API SERVICES
+NOTE: Do not give your personal credentials for practicing purpose!!!(use dummy credentials like [Email:dummy123@gmail.com, password: 123455])
+
+LINK --> https://freeapi.miniprojectideas.com/index.html
+Iam using User service from this website.
+
