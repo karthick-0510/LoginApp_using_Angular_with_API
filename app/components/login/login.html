@@ -1,0 +1,18 @@
+<div class="container d-flex justify-content-center">
+    <div class="login-container">
+        <h2>Login</h2>
+        <form [formGroup]="loginForm">
+            <div class="mb-3">
+                <label for="email" class="form-label">Email address</label>
+                <input type="email" formControlName="EmailId" class="form-control" id="email" aria-describedby="emailHelp">
+            </div>
+            <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" formControlName="Password" class="form-control" id="password">
+            </div>
+            <div class="d-grid gap-2">
+                <button type="button" (click)="onLogin()" class="btn btn-primary">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
